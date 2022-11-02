@@ -1,0 +1,19 @@
+.btn{
+	border-radius: 3px;
+	display: relative;
+	padding: 20px 15px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.8);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.8); 
+}
+
+.btn-green{
+	color: black;
+	background-color: white;
+}
+.btn-green:hover{
+	background-color: white;	
+}
+.btn-green:active{
+	background-color: white;
+}

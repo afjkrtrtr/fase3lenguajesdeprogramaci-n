@@ -1,0 +1,40 @@
+
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="login-box">
+	
+  <h2>Banco</h2>
+  <h3>opciones</h3>
+	<div class="wrapper">
+	  <div class="one">One</div>
+	  <div class="two">Two</div>
+	  <div class="three">Three</div>
+	  <div class="four">Four</div>
+	  <div class="five">Five</div>
+	  <div class="six">Six</div>
+	</div>
+	  <a href="personas.php"><button>Personas</button></a>
+	  <a href="empresas.php"><button>Empresas</button></a>
+	
+  <!--<form>
+	<div class="user-box">
+		<input type="button" >
+	</div>
+    <div class="user-box">
+      <input type="text" name="" required="">
+      <label>manu</label>
+    </div>
+    <div class="user-box">
+      <input type="password" name="" required="">
+      <label>Password</label>
+    </div>
+  </form>-->
+</div>
+
+</body>
+</html>
